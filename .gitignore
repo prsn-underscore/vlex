@@ -1,0 +1,6 @@
+vlex/target/
+vlex/.idea
+vlex/.mvn
+vlex/vlex.iml
+vlex/mvnw
+vlex/mvnw.cmd
